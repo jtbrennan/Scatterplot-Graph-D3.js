@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+#scatterplot {
+  width: 800px;
+  height: 500px;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 5px;
+  background-color: #fff;
+  border: 1px solid #333;
+  opacity: 0;
+  pointer-events: none;
+}
